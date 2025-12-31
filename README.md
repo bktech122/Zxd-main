@@ -74,8 +74,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/bktech122/Zxd-main.git
+cd Zxd-main/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -98,7 +98,7 @@ python3 c2.py
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
+zxcr9999 (Dark-BA .-.)
 SkyWtkhIsBack (Example Panel and L7 methods <3)
 Empfaked (Layer 7 methods <3)
 HyukIsBack (Layer 7 methods <3)
@@ -118,6 +118,7 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
+Telegram: @DarkBA2024
 Discord: zxcr9999#1770
+📱+8801736311244
 ```
